@@ -8,7 +8,7 @@ url = "https://moviesdatabase.p.rapidapi.com/titles/search/title/"
 querystring = {"exact":"false","titleType":"movie"}
 
 headers = {
-	"x-rapidapi-key": st.secrets['api_key'],
+	"x-rapidapi-key": "8e48da30d6mshf25e65997be15d1p13ba45jsn7cf1b6501bdb",
 	"x-rapidapi-host": "moviesdatabase.p.rapidapi.com"
 }
 
